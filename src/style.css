@@ -21,3 +21,11 @@ form {
   border-radius: 10px;
   display: flex;
 }
+.instructions {
+  padding: 16px;
+  border: 1px solid grey;
+  width: 80%;
+  font-size: 16px;
+  border-radius: 50px;
+  line-height: 20px;
+}
