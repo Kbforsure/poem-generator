@@ -20,7 +20,7 @@ h1 {
 }
 form {
   padding: 40px;
-  background-color: #f8f398;
+  background-color: #f9ffea;
   box-shadow: 0px 20px 60px rgba(65, 50, 100, 0.08);
   border-radius: 50px;
   display: flex;
@@ -47,7 +47,7 @@ form {
 .poem {
   font-size: 16px;
   border-radius: 30px;
-  background-color: #f8f398;
+  background-color: #f9ffea;
   padding: 20px;
   line-height: 2;
   border-left: 3px solid #38598b;
