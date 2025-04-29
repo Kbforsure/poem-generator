@@ -1,5 +1,4 @@
-function generatePoem(event) {
-  event.preventDefault();
+function generatePoem() {
   alert("Generating your poem...");
 }
 
