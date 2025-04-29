@@ -1,6 +1,7 @@
-function generatePoem() {
+function generatePoem(event) {
+  event.preventDefault();
   alert("Generating your poem...");
 }
 
-let poemFormElement = document.querySelector("#poem-generator-form");
+let poemFormElement = document.querySelector("#poem-button");
 poemFormElement.addEventListener("submit", generatePoem);
